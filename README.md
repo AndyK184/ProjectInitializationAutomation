@@ -1,4 +1,4 @@
-# AutomatedGithubProjectCreation
+# ProjectInitializationAutomation
 
 ### Install: 
 ```bash
